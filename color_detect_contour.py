@@ -41,7 +41,7 @@ greenHSV = {
     'vmax': 255
 }
 # Select the color you want to detect
-hsvVal = yellowHSV
+hsvVal = blueHSV
 # hsvVal = redHSV
 # hsvVal = blueHSV
 # hsvVal = greenHSV
