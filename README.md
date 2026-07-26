@@ -1,4 +1,4 @@
-**This project detects a specific color in real-time using a webcam. The webcam captures live video, converts each frame into the HSV (Hue, Saturation, Value) color space, creates a binary mask for the selected color, detects the colored object using contours, and displays the results in a stacked window.**
+*This project detects a specific color in real-time using a webcam. The webcam captures live video, converts each frame into the HSV (Hue, Saturation, Value) color space, creates a binary mask for the selected color, detects the colored object using contours, and displays the results in a stacked window.*
 
 
 ***Technologies used:***
